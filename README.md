@@ -44,7 +44,7 @@
 | Project | Description | Tech Stack |
 |---------|------------|------------|
 | [Weather App](https://github.com/DivyanshuxOP/weather-app) | A real-time weather web app. | HTML, CSS, JavaScript, API |
-| [YouTube Downloader]([https://github.com/DivyanshuxOP/youtube-downloader](https://github.com/DivyanshuxOP/react-ytdl)) | A YouTube video downloader built with JavaScript. | JS, Node.js, Express |
+| [YouTube Downloader](https://github.com/DivyanshuxOP/react-ytdl) | A YouTube video downloader built with Python. | React, Flask |
 
 ---
 
