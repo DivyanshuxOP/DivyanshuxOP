@@ -1,4 +1,4 @@
-<!-- Banner or short introduction -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFEE&center=true&vCenter=true&width=435&lines=Hey+there,+I'm+YourName!;Front-end+Enthusiast+%7C+CS+Student;Learning+Back-end+%7C+Open+to+Collab" alt="Typing SVG" />
 </p>
@@ -11,20 +11,20 @@
 
 ---
 
-<!-- About Me -->
+
 ### About Me
-- 👨‍💻 **Name:** YourName  
+- 👨‍💻 **Name:** Divyanshu 
 - 🎓 **Major:** Computer Science (3rd year)  
-- 🌐 **Specialty:** Front-end (React, Vue, etc.) + exploring Back-end (Node.js, Express, etc.)  
+- 🌐 **Specialty:** Front-end (React, Tailwind, etc.) + exploring Back-end (Node.js, Express, etc.)  
 - 💬 **Ask me about:** Anything Front-end or JavaScript related!  
 - 🤝 **Open to:** Collaborations on web projects, hackathons, and interesting side projects  
-- 📫 **Reach me at:** [your.email@example.com](mailto:your.email@example.com) | Discord: `YourDiscordHandle`  
+- 📫 **Reach me at:** [opxdivyanshu@gmail.com](mailto:your.email@example.com) | Discord: `_dzai`  
 
 ---
 
 <!-- GitHub Activity Graph (by Ashutosh / or its fork) -->
 ### Contribution Activity
-[![YourName's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YourGitHubUsername&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?DivyanshuxOP=YourGitHubUsername&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
