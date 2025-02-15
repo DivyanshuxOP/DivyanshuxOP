@@ -21,11 +21,7 @@
 
 ---
 
-### Contribution Activity
-[![Divyanshu's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DivyanshuxOP&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
+### GitHub Stats 📊
 <p align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=DivyanshuxOP&show_icons=true&theme=dark&count_private=true" />
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshuxOP&layout=compact&theme=dark" />
@@ -37,14 +33,14 @@
 
 ---
 
-### Trophies
+### Trophies 🏆
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DivyanshuxOP&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
 ---
 
-### Featured Projects
+### Featured Projects 🚀
 | Project | Description | Tech Stack |
 |---------|------------|------------|
 | [Weather App](https://github.com/DivyanshuxOP/weather-app) | A real-time weather web app. | HTML, CSS, JavaScript, API |
@@ -52,7 +48,7 @@
 
 ---
 
-### A Quick Snippet
+### A Quick Snippet ✨
 ```js
 // A simple greeting function
 const greet = (name) => {
