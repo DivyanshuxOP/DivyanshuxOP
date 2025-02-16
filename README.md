@@ -14,7 +14,7 @@
 ### About Me
 - 👨‍💻 **Name:** Divyanshu  
 - 🎓 **Major:** Computer Science (3rd year)  
-- 🌐 **Specialty:** Front-end (React, Vue, etc.) + exploring Back-end (Node.js, Express, etc.)  
+- 🌐 **Specialty:** Front-end (React, Tailwind, etc.) + exploring Back-end (Node.js, Express, etc.)  
 - 💬 **Ask me about:** Anything Front-end or JavaScript related!  
 - 🤝 **Open to:** Collaborations on web projects, hackathons, and interesting side projects  
 - 📫 **Reach me at:** Discord: `_dzai`  
