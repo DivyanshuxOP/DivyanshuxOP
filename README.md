@@ -43,7 +43,7 @@
 ### Featured Projects 🚀
 | Project | Description | Tech Stack |
 |---------|------------|------------|
-| [Ai Project](https://github.com/DivyanshuxOP/science-fest-game) | A real-time local desktop ai made for science fest project. | llama3.2,pyhton , unity |
+| [Project Iridium](https://github.com/DivyanshuxOP/Project_Iridium) | A real-time local desktop ai made for science fest project. | llama3.2,pyhton , unity |
 | [YouTube Downloader](https://github.com/DivyanshuxOP/react-ytdl) | A YouTube video downloader built with Python. | React, Flask |
 
 ---
