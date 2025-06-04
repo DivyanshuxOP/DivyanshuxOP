@@ -1,58 +1,70 @@
-<!-- Banner or short introduction -->
+<!-- Clean and Minimal Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFEE&center=true&vCenter=true&width=435&lines=Hey+there,+I'm+Divyanshu!;Frontend+Developer+%7C+CS+Student;Learning+Backend+%7C+Open+to+Collab" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFEE&center=true&vCenter=true&width=435&lines=Hey+there,+I'm+Divyanshu!;Full+Stack+Developer+%7C+CS+Student;Flask+%2B+React+Enthusiast+%7C+Open+to+Collab" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend%20Dev-Learning-brightgreen?style=for-the-badge" alt="Frontend Badge"/>
-  <img src="https://img.shields.io/badge/CS-3rd%20Year-blue?style=for-the-badge" alt="CS Badge"/>
-  <img src="https://img.shields.io/badge/Backend-Explorer-orange?style=for-the-badge" alt="Backend Badge"/>
+  <img src="https://img.shields.io/badge/Fullstack-Flask%20%7C%20React-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Figma-3+%20Years-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend%20%26%20Backend-2%2B%20Years-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-orange?style=for-the-badge" />
 </p>
 
 ---
 
-### About Me
-- 👨‍💻 **Name:** Divyanshu  
-- 🎓 **Major:** Computer Science (3rd year)  
-- 🌐 **Specialty:** Front-end (React, Tailwind, etc.) + exploring Back-end (Node.js, Express, etc.)  
-- 💬 **Ask me about:** Anything Front-end or JavaScript related!  
-- 🤝 **Open to:** Collaborations on web projects, hackathons, and interesting side projects  
-- 📫 **Reach me at:** Discord: `_dzai`  
+### 👋 About Me
+
+Hey! I’m **Divyanshu**, a Computer Science student with a strong focus on **full-stack web development**. I've been working with modern tools and building real-world projects for over 2 years now.
+
+- 🎨 **3+ years of Figma experience** — designing clean, usable, and responsive UI
+- 🔧 **2+ years of experience with:**
+  - **Frontend:** React, JavaScript, TailwindCSS
+  - **Backend:** Flask, Python, REST APIs
+  - **Others:** Git, GitHub, Postman, basic deployment (Vercel/Render)
+- 🛠️ I like building things from scratch and learning through projects
+- 🤝 I enjoy collaborating on meaningful ideas or just experimenting with new tech
+- 🧠 Currently diving into backend scaling, databases, and new frameworks
+- 📫 Discord: `_dzai`
 
 ---
 
-### GitHub Stats 📊
+### 🔥 GitHub Stats
+
 <p align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=DivyanshuxOP&show_icons=true&theme=dark&count_private=true" />
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshuxOP&layout=compact&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshuxOP&theme=dark" alt="Your GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshuxOP&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
 
-### Trophies 🏆
+### 🏆 Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DivyanshuxOP&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DivyanshuxOP&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### Featured Projects 🚀
-| Project | Description | Tech Stack |
-|---------|------------|------------|
-| [Project Iridium](https://github.com/DivyanshuxOP/Project_Iridium) | A real-time local desktop ai made for science fest project. | llama3.2,pyhton , unity |
-| [YouTube Downloader](https://github.com/DivyanshuxOP/react-ytdl) | A YouTube video downloader built with Python. | React, Flask |
+### 🚀 Highlighted Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [Project Iridium](https://github.com/DivyanshuxOP/Project_Iridium) | A local AI assistant built for a science fest. Handles voice commands and dynamic UI. | Unity, Python, LLaMA |
+| [YouTube Downloader](https://github.com/DivyanshuxOP/react-ytdl) | A web-based YouTube video downloader. Clean UI and simple backend. | React, Flask, YTDL |
 
 ---
 
-### A Quick Snippet ✨
+### ✍️ A Simple Thought in Code
+
 ```js
-// A simple greeting function
-const greet = (name) => {
-  return `Hello, ${name}!`;
+// The journey starts with curiosity
+const keepLearning = (tech) => {
+  return `Exploring ${tech}... One project at a time!`;
 };
 
-console.log(greet("GitHub"));
+console.log(keepLearning("Next.js + MongoDB"));
+```
