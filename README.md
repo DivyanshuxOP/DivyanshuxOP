@@ -8,6 +8,9 @@
   <img src="https://img.shields.io/badge/Figma-3+%20Years-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Freelance%20Experience-2%20Paid%20Projects-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-orange?style=for-the-badge" />
+  <a href="https://divyanshu-goswami.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge" />
+  </a>
 </p>
 
 ---
@@ -24,6 +27,7 @@ Hey! I’m **Divyanshu**, a Computer Science student with a passion for building
 - 💼 Completed **2 paid freelance website projects** — end-to-end design, dev, and delivery  
 - 🌱 Currently learning more about deployment, authentication, and advanced backend logic  
 - 💬 Always open to chat, share ideas, or collaborate on interesting projects  
+- 🌐 **Portfolio:** [divyanshu-goswami.vercel.app](https://divyanshu-goswami.vercel.app/)  
 - 📫 Reach me on Discord: `_dzai`
 
 ---
@@ -55,4 +59,3 @@ Hey! I’m **Divyanshu**, a Computer Science student with a passion for building
 |--------|-------------|-------|
 | [Project Iridium](https://github.com/DivyanshuxOP/Project_Iridium) | A local AI assistant built for a science fest. Handles voice commands and dynamic UI. | Unity, Python, LLaMA |
 | [YouTube Downloader](https://github.com/DivyanshuxOP/react-ytdl) | A web-based YouTube video downloader. Clean UI and simple backend. | React, Flask, YTDL |
-
